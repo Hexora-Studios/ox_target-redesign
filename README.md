@@ -1,30 +1,15 @@
-# ox_target
+# ⚠ More free scripts soon at: [Discord](https://discord.gg/sVXjraaENb) (Please join to help us grow) ⚠
 
-![](https://img.shields.io/github/downloads/overextended/ox_target/total?logo=github)
-![](https://img.shields.io/github/downloads/overextended/ox_target/latest/total?logo=github)
-![](https://img.shields.io/github/contributors/overextended/ox_target?logo=github)
-![](https://img.shields.io/github/v/release/overextended/ox_target?logo=github) 
+# ox_target redesign
 
+## 🎉 How to Install the Redesign 
+To install the redesign, download it, upload the "web" folder to your "ox_target," and replace all the files. Then, restart the script. And that's it! You will have the new interface installed.
 
-A performant and flexible standalone "third-eye" targeting resource, with additional functionality for supported frameworks.
+> Exclusive support on Discord
 
-ox_target is the successor to qtarget, which was a mostly-compatible fork of bt-target.
-To improve many design flaws, ox_target has been written from scratch and drops support for bt-target/qtarget standards, though partial compatibility is being implemented where possible.
+# SUPPORT https://discord.gg/sVXjraaENb
+# WEB http://hexorastudio.com/ 
+# SHOP  https://hexorastudio.tebex.io
 
-
-## 📚 Documentation
-
-https://overextended.dev/ox_target
-
-## 💾 Download
-
-https://github.com/overextended/ox_target/releases/latest/download/ox_target.zip
-
-## ✨ Features
-
-- Improved entity and world collision than its predecessor.
-- Improved error handling when running external code.
-- Menus for nested target options.
-- Partial compatibility for qtarget (the thing qb-target is based on, I made the original idiots).
-- Registering options no longer overrides existing options.
-- Groups and items checking for supported frameworks.
+![image](https://raw.githubusercontent.com/Hexora-Studios/cdn/refs/heads/main/images/oxtarget-redesign/oxtarget_2.png)
+![image](https://raw.githubusercontent.com/Hexora-Studios/cdn/refs/heads/main/images/oxtarget-redesign/oxtarget_preview.png)

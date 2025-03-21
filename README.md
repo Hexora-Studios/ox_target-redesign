@@ -7,10 +7,10 @@ To install the redesign, download it, upload the "web" folder to your "ox_target
 
 > Exclusive support on Discord
 
-** SUPPORT** https://discord.gg/sVXjraaENb
-** PREVIEW**## [Youtube](https://youtu.be/dxxwviAvgbI) 
-** WEB**## https://hexorastudio.com/ 
-** SHOP** https://hexorastudio.tebex.io
+**SUPPORT** https://discord.gg/sVXjraaENb
+**PREVIEW**## [Youtube](https://youtu.be/dxxwviAvgbI) 
+**WEB**## https://hexorastudio.com/ 
+**SHOP** https://hexorastudio.tebex.io
 
 ![image](https://raw.githubusercontent.com/Hexora-Studios/cdn/refs/heads/main/images/oxtarget-redesign/oxtarget_2.png)
 ![image](https://raw.githubusercontent.com/Hexora-Studios/cdn/refs/heads/main/images/oxtarget-redesign/oxtarget_preview.png)
